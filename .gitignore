@@ -1,0 +1,13 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Never commit real job files or secrets
+.env
+*.env
+private/
+real-jobs/
+*.pdf.local
