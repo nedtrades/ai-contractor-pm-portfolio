@@ -1,0 +1,4 @@
+site,project_no,item_no,location,scope,description,severity,owner_role,date_opened,target_date,status,closed_date,closure_evidence_id,notes
+Retail Store #0000 Anytown OR,0000,1,Mechanical room,Hydronic,Missing valve tag on pump B return,Cosmetic,Field Technician,2026-03-10,2026-03-17,Open,,,Illustrative sample row
+Retail Store #0000 Anytown OR,0000,2,Mechanical room,Controls,Confirm boiler lockout alarm reaches owner on-call line,Function,Mechanical Manager,2026-03-10,TBD,Open,,,Pending controls contractor test date. Illustrative sample row
+Retail Store #0000 Anytown OR,0000,3,Back-room restroom,Plumbing,Replace temporary T&P relief valve with permanent valve,Safety,Licensed Plumbing Manager,2026-03-10,2026-03-12,Closed,2026-03-12,P-03-12-01,Illustrative sample row

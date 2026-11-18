@@ -1,0 +1,10 @@
+document_id,title,revision,status,owner_role,approved_by_role,approval_date,next_review_due,ai_assisted,notes
+QM-001,Quality Manual,Rev A,Illustrative sample,Project Manager,Owner,2026-01-15,2027-01-15,Yes,Illustrative sample row
+QP-855,Field Service and Turnover Procedure,Rev A,Illustrative sample,Project Manager,Licensed Plumbing Manager,2026-01-15,2027-01-15,Yes,Illustrative sample row
+FM-855-01,Turnover and Commissioning Checklist,Rev A,Illustrative sample,Mechanical Manager,Mechanical Manager,2026-01-15,2027-01-15,Yes,Illustrative sample row
+FM-855-02,Commissioning Report,Rev A,Illustrative sample,Mechanical Manager,Mechanical Manager,2026-01-15,2027-01-15,Yes,Illustrative sample row
+FM-855-03,Weekly Status Update,Rev A,Illustrative sample,Project Manager,Licensed Plumbing Manager,2026-01-15,2027-01-15,Yes,Illustrative sample row
+FM-855-04,Spec-to-Service Record,Rev A,Illustrative sample,Mechanical Manager,Mechanical Manager,2026-01-15,2027-01-15,Yes,Illustrative sample row
+REG-823,RFI and Change Order Log,Rev A,Illustrative sample,Project Manager,Project Manager,2026-01-15,2027-01-15,No,Illustrative sample row
+REG-830,Document Register,Rev A,Illustrative sample,Project Manager,Owner,2026-01-15,2027-01-15,No,Illustrative sample row
+REG-855,Punch List Tracker,Rev A,Illustrative sample,Project Manager,Project Manager,2026-01-15,2027-01-15,No,Illustrative sample row

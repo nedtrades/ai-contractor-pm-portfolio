@@ -1,0 +1,4 @@
+site,project_no,type,number,title,date_issued,issued_by_role,addressed_to_role,response_needed_by,cost_impact,schedule_impact_days,status,decision,decided_by_role,date_closed,evidence_ids,notes
+Retail Store #0000 Anytown OR,0000,RFI,RFI-0000-07,Hand sink HS-2 cannot drain to existing waste line as drawn,2026-03-02,Licensed Plumbing Manager,Project Manager,2026-03-06,TBD,TBD,Open,,,,07-1;07-2;07-3,Illustrative sample row
+Retail Store #0000 Anytown OR,0000,CO,CO-0000-03,Replace corroded galvanized water line in opened restroom wall,2026-03-03,Licensed Plumbing Manager,Facilities Manager,2026-03-06,$X (sample),1,Pending decision,,,,03-1;03-2;03-3;03-4,Illustrative sample row
+Retail Store #0001 Anytown OR,0001,RFI,RFI-0001-02,Confirm RTU-3 curb adapter size before crane day,2026-03-04,Mechanical Manager,Project Manager,2026-03-09,None expected,0,Answered,Use adapter per approved submittal,Project Manager,2026-03-05,02-1,Illustrative sample row
